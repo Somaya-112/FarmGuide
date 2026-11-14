@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Farm Guide",
+    "slug": "farmi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#0B3D2A",
+    "android": {
+      "package": "com.farmguide.app",
+      "backgroundColor": "#0B3D2A"
+    }
+  }
+}
