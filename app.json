@@ -9,6 +9,11 @@
     "android": {
       "package": "com.farmguide.app",
       "backgroundColor": "#0B3D2A"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6f755a79-fee1-4ee1-876a-127b0b7ba30a"
+      }
     }
   }
 }
